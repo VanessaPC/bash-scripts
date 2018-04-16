@@ -17,3 +17,5 @@ A collection of personal bash scripts for various purposes.
 5.  Loop through directory and find first level folder-names:
     Have you ever needed to get an array of names of the first lebel folders of a directory based on a git diff?
     Then this is for you.
+
+6. Gid-Diff: Get a git diff from the previous successful build of         Jenkins and the new one.
